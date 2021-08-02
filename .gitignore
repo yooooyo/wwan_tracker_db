@@ -1,1 +1,3 @@
 .env
+__pycache__
+tracker_data.db
